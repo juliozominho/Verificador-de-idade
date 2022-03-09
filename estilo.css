@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+body{
+    background-color: rgb(160, 192, 229);
+    font-family: 'Space Mono', monospace;
+    font-size: px;
+}
+
+ section{
+    background-color: rgba(222, 224, 207, 0.918);
+    border-radius: 10px;
+    padding: 14px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 4px 4px 9px rgba(0, 0, 0, 0.822);
+ }
+
+ footer{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-style: italic;
+ }
+
+ header{
+    color: rgba(24, 2, 2, 0.952);
+    text-align: center;
+ }
+ 
+ #imagem{
+   width: 250px;
+   height: 250px;
+   border-radius: 50%;
+}
+
+ div{
+   text-align: center;
+   padding: 7px;
+}
+ #foto{
+    background-color: rgba(231, 248, 191, 0);;
+ }
